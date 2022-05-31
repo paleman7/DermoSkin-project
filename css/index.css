@@ -1,0 +1,100 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+
+    background-image:url(https://www.todofondos.net/wp-content/uploads/fondo-de-pantalla-1242x2208.-wallpaper-para-celular-aesthetic-576x1024.jpg) ;
+    align-content:space;
+    background-position: top center;
+    
+}
+
+.grid-foto {
+    display: grid;
+    grid-template-columns: 100px 100px 50px 100px;
+    background: black;
+    
+    
+
+}
+
+.grid-1 {
+    background: red;
+}
+
+header {
+    
+    margin-top: 10px;
+    
+}   
+
+p { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px;
+    color: whitesmoke;
+    position:relative;
+    
+  }
+
+#encabezado .logo {
+    color: azure;
+    width: 10px;
+    height: auto;
+    display: flex;
+    margin-bottom: 40px;
+    
+}
+
+#title {
+    background-color: beige;
+    padding: 2px;
+}
+
+#title .box-title {
+    border: 2px red;
+    margin-bottom: 50px;
+    
+}
+
+image {
+    height: 10px;
+    width: 10px;
+    display: auto;
+    position: relative;
+}
+div {
+    height: 5px;
+    width: 10px;
+    display: auto;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif black;
+    
+
+}
+
+h1  {
+    color: lightseagreen;
+}
+.color {
+    color:blue
+}
+#color  {
+    color: green
+} 
+
+ h2 {
+     color:rgb(9, 68, 65) ;  
+    }
+footer {
+    color: yellow;
+    font-size: small;
+    margin-top: 10px;
+    margin-left: 800px;
+        
+}
+ul { 
+    list-style:none;
+    color: black; 
+  }
+  
